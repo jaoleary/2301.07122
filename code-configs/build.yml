@@ -1,0 +1,25 @@
+Code:
+  ConsistentTrees:
+    git-hash: e49cbf0
+    repository: https://bitbucket.org/gfcstanford/rockstar/src/main/
+    system: CAST
+  EMERGE:
+    git-hash: 02d10fe
+    repository: https://bitbucket.org/bmoster/emerge/
+    system: SuperMUC-NG
+  Galaxybox:
+    git-hash: b780ac7
+    repository: https://github.com/jaoleary/galaxybox
+    system: loki
+  MUSIC:
+    git-hash: 9142b06
+    repository: https://bitbucket.org/ohahn/music/src/master/
+    system: SuperMUC-NG
+  OpenGadget3:
+    git-hash: none
+    repository: none
+    system: SuperMUC-NG
+  Rockstar:
+    git-hash: d572342
+    repository: https://bitbucket.org/jaoleary/rockstar/commits/
+    system: SuperMUC-NG
