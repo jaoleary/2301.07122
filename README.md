@@ -1,4 +1,4 @@
-# Here be dragons: exploring the stellar mass-halo mass relation in the dwarf regime with Emerge...the notebook!
+# Predictions on the stellar-to-halo mass relation in the dwarf regime using the empirical model for galaxy formation EMERGE...the notebook!
 
 This repository/notebook is intended to reproduce the key results from the paper [Predictions on the stellar-to-halo mass relation in the dwarf regime using the empirical model for galaxy formation EMERGE](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520..897O/abstract)
 
